@@ -1,0 +1,35 @@
+.title {
+    color: red;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    font-size: 100;
+}
+
+.heading {
+    padding: 50px;
+    color: darkred;
+    
+}
+
+.list {
+    font-size: 40;
+    font-weight: bold;
+    margin: 60px;
+}
+
+.bg {
+    background-image: linear-gradient(blue,violet);
+}
+
+.rivers {
+    height: 400px;
+    width: 100%;
+    text-align: left;
+    
+}
+.rivers h1 {
+    font-size: 50;
+    font-weight: bold;
+
+}
+
